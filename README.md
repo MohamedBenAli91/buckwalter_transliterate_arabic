@@ -27,7 +27,7 @@ pip install lang-trans
 pip3 install lang-trans
 ```
 ## Usage
-from utf8 format to buckwater format and vice versa
+- from utf8 format to buckwater format and vice versa
 ```
 python buckwalter_to_utf8.py <text_name_path> <file result>
 python utf8_to_buckwalter.py <text_name_path> <file result>
